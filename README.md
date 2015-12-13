@@ -1,1 +1,23 @@
-# awesome-decentralized
+# Awesome Decentralized P2P Platforms [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+A curated list of decentralized, P2P (peer-to-peer), and distributed platforms and technologies (also known as, "Dapps").
+
+### Applications
+
+* [OpenBazaar](https://openbazaar.org/) - Marketplace, with store fronts and moderators
+* [Lighthouse](https://www.vinumeris.com/lighthouse) - Crowdfunding, using bitcoin multisig "smart contracts"
+
+### Platforms
+
+* [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) - Digital currency, with distributed ledger known as a "blockchain".
+* [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - Protocol for distributed file sharing
+* [Ethereum](https://www.ethereum.org/) - Cryptocurrency "smart contract" platform.
+* [IPFS](https://ipfs.io/) - InterPlanetary File System, a distributed file system
+* [Namecoin](https://en.wikipedia.org/wiki/Namecoin) - Fork of bitcoin, intended as a decentralized domain name registry
+* [ZeroNet](https://zeronet.io/) - P2P web applications, based on bittorrent
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the author of this page has waived all copyright and related or neighboring rights to this work.
