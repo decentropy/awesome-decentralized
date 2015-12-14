@@ -4,17 +4,18 @@ A curated list of decentralized, P2P (peer-to-peer), and distributed platforms a
 
 ### Applications
 
-* [OpenBazaar](https://openbazaar.org/) - Marketplace, with store fronts and moderators
-* [Lighthouse](https://www.vinumeris.com/lighthouse) - Crowdfunding, using bitcoin multisig "smart contracts"
+* [OpenBazaar](https://openbazaar.org/) - Marketplace, with store fronts and moderators.
+* [Lighthouse](https://www.vinumeris.com/lighthouse) - Crowdfunding, using bitcoin multisig "smart contracts".
 
 ### Platforms
 
 * [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) - Digital currency, with distributed ledger known as a "blockchain".
 * [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - Protocol for distributed file sharing
-* [Ethereum](https://www.ethereum.org/) - Cryptocurrency "smart contract" platform.
-* [IPFS](https://ipfs.io/) - InterPlanetary File System, a distributed file system
-* [Namecoin](https://en.wikipedia.org/wiki/Namecoin) - Fork of bitcoin, intended as a decentralized domain name registry
-* [ZeroNet](https://zeronet.io/) - P2P web applications, based on bittorrent
+* [Ethereum](https://www.ethereum.org/) - "Smart contract" platform, with Ether cryptocurrency.
+* [IPFS](https://ipfs.io/) - InterPlanetary File System, a distributed file system.
+* [MaidSafe](http://maidsafe.net) - Distributed data, with SafeCoin cryptocurrency.
+* [Namecoin](https://en.wikipedia.org/wiki/Namecoin) - Fork of bitcoin, intended as a decentralized domain name registry.
+* [ZeroNet](https://zeronet.io/) - P2P web applications, based on bittorrent.
 
 ## License
 
