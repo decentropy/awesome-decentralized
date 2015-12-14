@@ -2,6 +2,8 @@
 
 A curated list of decentralized, P2P (peer-to-peer), and distributed platforms and applications ("dapps").
 
+Please read the [contribution guidelines](contributing.md) to contribute.
+
 ### Applications
 
 * [BitSquare](https://bitsquare.io/) - (Under development) Bitcoin exchange
