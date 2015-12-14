@@ -14,9 +14,12 @@ A curated list of decentralized, P2P (peer-to-peer), and distributed platforms a
 
 * [Bitcloud](http://bitcloudproject.org/) - (Under development) Distributed database under development, intended to replace bitcoin blockchain.
 * [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) - Digital currency, with distributed ledger known as a "blockchain".
+* [BitMessage](https://en.wikipedia.org/wiki/Bitmessage) - Anonymous encrypted message broadcasting
 * [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - Protocol for distributed file sharing
+* [I2P](https://geti2p.net/) - Anonymous network with hidden services
 * [IPFS](https://ipfs.io/) - InterPlanetary File System, a distributed file system.
 * [Secure Scuttlebutt](https://github.com/ssbc/docs) - Distributed message feed network.
+* [Tor](https://www.torproject.org/) - Anonymous network proxy
 * [ZeroNet](https://zeronet.io/) - P2P web applications, based on bittorrent.
 
 ### Alt-Coin Based
