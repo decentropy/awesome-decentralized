@@ -21,6 +21,7 @@ A curated list of decentralized, P2P (peer-to-peer), and distributed platforms a
 
 ### Alt-Coin Based
 
+* [Counterparty](http://counterparty.io/) - Financial applications on bitcoin network, extended with XCP cryptocurrency.
 * [Ethereum](https://www.ethereum.org/) - "Smart contract" platform, with Ether cryptocurrency.
 * [MaidSafe](http://maidsafe.net) - (Under development) Distributed data, with SafeCoin cryptocurrency.
 * [Namecoin](https://en.wikipedia.org/wiki/Namecoin) - Fork of bitcoin, intended as a decentralized domain name registry.
