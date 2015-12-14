@@ -9,6 +9,9 @@ A curated list of decentralized, P2P (peer-to-peer), and distributed platforms a
 * [JoinMarket](https://github.com/JoinMarket-Org/joinmarket) - Implementation of CoinJoin (bitcoin mixing for anonymity) with added incentive structure.
 * [Lighthouse](https://www.vinumeris.com/lighthouse) - Crowdfunding, using bitcoin multisig "smart contracts".
 * [OpenBazaar](https://openbazaar.org/) - (Under development) Marketplace, with store fronts and moderators.
+* [P2Pool](https://github.com/p2pool/p2pool) - Bitcoin mining pool.
+* [RetroShare](http://retroshare.sourceforge.net/) - Communication, messaging, and file sharing.
+* [Streamium](https://streamium.io/) - Bitcoin paid streaming video broadcasting.
 
 ### Platforms
 
