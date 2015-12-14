@@ -4,7 +4,7 @@ A curated list of decentralized, P2P (peer-to-peer), and distributed platforms a
 
 ### Applications
 
-* [BitSquare](https://bitsquare.io/) - (Under development) Bitcoin exchnage
+* [BitSquare](https://bitsquare.io/) - (Under development) Bitcoin exchange
 * [JoinMarket](https://github.com/JoinMarket-Org/joinmarket) - Implementation of CoinJoin (bitcoin mixing for anonymity) with added incentive structure.
 * [OpenBazaar](https://openbazaar.org/) - (Under development) Marketplace, with store fronts and moderators.
 * [DarkWallet](https://www.darkwallet.is/) - (Under development) Bitcoin wallet using stealth addresses and coinjoin for anonymity.
