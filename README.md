@@ -12,7 +12,7 @@ A curated list of decentralized, P2P (peer-to-peer), and distributed platforms a
 
 ### Platforms
 
-* [Bitcloud](http://bitcloudproject.org/) - (Under development) Distributed database under development, intended to replace bitcoin blockchain.
+* [Bitcloud](http://bitcloudproject.org/) - (Under development) Distributed database, proposed to replace bitcoin blockchain.
 * [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) - Digital currency, with distributed ledger known as a "blockchain".
 * [BitMessage](https://en.wikipedia.org/wiki/Bitmessage) - Anonymous encrypted message broadcasting
 * [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - Protocol for distributed file sharing
