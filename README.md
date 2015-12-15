@@ -8,20 +8,23 @@ Please read the [contribution guidelines](contributing.md) to contribute.
 
 * [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) - Digital currency, with distributed ledger known as a "blockchain".
 * [BitSquare](https://bitsquare.io/) - (Under development) Bitcoin exchange
-* [DarkWallet](https://www.darkwallet.is/) - (Under development) Bitcoin wallet using stealth addresses and coinjoin for anonymity.
-* [JoinMarket](https://github.com/JoinMarket-Org/joinmarket) - Implementation of CoinJoin (bitcoin mixing for anonymity) with added incentive structure.
 * [Lighthouse](https://www.vinumeris.com/lighthouse) - Crowdfunding, using bitcoin multisig "smart contracts".
 * [OpenBazaar](https://openbazaar.org/) - (Under development) Marketplace, with store fronts and moderators.
 * [P2Pool](https://github.com/p2pool/p2pool) - Bitcoin mining pool.
 
-### Communications and Anonymity
+### Anonymity and Proxies
 
-* [BitMessage](https://en.wikipedia.org/wiki/Bitmessage) - Anonymous encrypted message broadcasting
+* [DarkWallet](https://www.darkwallet.is/) - (Under development) Bitcoin wallet using stealth addresses and coinjoin for anonymity.
+* [JoinMarket](https://github.com/JoinMarket-Org/joinmarket) - Implementation of CoinJoin (bitcoin mixing for anonymity) with added incentive structure.
 * [Freenet](https://freenetproject.org/) - Anonymous network with hidden services.
 * [I2P](https://geti2p.net/) - Anonymous network with hidden services.
+* [Tor](https://www.torproject.org/) - Anonymous network proxy
+
+### Communications
+
+* [BitMessage](https://en.wikipedia.org/wiki/Bitmessage) - Anonymous encrypted message broadcasting
 * [RetroShare](http://retroshare.sourceforge.net/) - Communication, messaging, and file sharing.
 * [Streamium](https://streamium.io/) - Bitcoin paid streaming video broadcasting.
-* [Tor](https://www.torproject.org/) - Anonymous network proxy
 * [Tox](https://tox.chat/) - Instant messaging and video calling.
 * [Twister](http://twister.net.co/) - Microblogging (Twitter-like) application.
 
