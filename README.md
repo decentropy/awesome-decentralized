@@ -42,6 +42,7 @@ Please read the [contribution guidelines](contributing.md) to contribute.
 
 ### Alt-Coin Platforms
 
+* [BitShares](https://bitshares.org) - Financial platform, using BitAssets.
 * [Counterparty](http://counterparty.io/) - Financial applications on bitcoin network, extended with XCP cryptocurrency.
 * [Crypti](https://crypti.me/) - Application platform, with XCR cryptocurrency.
 * [Ethereum](https://www.ethereum.org/) - "Smart contract" platform, with Ether cryptocurrency.
