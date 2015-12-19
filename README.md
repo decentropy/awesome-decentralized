@@ -18,11 +18,12 @@ Please read the [contribution guidelines](contributing.md) to contribute.
 * [JoinMarket](https://github.com/JoinMarket-Org/joinmarket) - Implementation of CoinJoin (bitcoin mixing for anonymity) with added incentive structure.
 * [Freenet](https://freenetproject.org/) - Anonymous network with hidden services.
 * [I2P](https://geti2p.net/) - Anonymous network with hidden services.
-* [Tor](https://www.torproject.org/) - Anonymous network proxy
+* [Tor](https://www.torproject.org/) - Anonymous network proxy.
 
 ### Communications
 
-* [BitMessage](https://en.wikipedia.org/wiki/Bitmessage) - Anonymous encrypted message broadcasting
+* [BitMessage](https://en.wikipedia.org/wiki/Bitmessage) - Anonymous encrypted message broadcasting.
+* [Identifi](https://github.com/identifi/identifi) - Distributed identity and reputation store.
 * [RetroShare](http://retroshare.sourceforge.net/) - Communication, messaging, and file sharing.
 * [Streamium](https://streamium.io/) - Bitcoin paid streaming video broadcasting.
 * [Tox](https://tox.chat/) - Instant messaging and video calling.
