@@ -7,14 +7,14 @@ Please read the [contribution guidelines](contributing.md) to contribute.
 ### Bitcoin Markets
 
 * [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) - Digital currency, with distributed ledger known as a "blockchain".
-* [BitSquare](https://bitsquare.io/) - (Under development) Bitcoin exchange
+* [BitSquare](https://bitsquare.io/) - Bitcoin exchange
 * [Lighthouse](https://www.vinumeris.com/lighthouse) - Crowdfunding, using bitcoin multisig "smart contracts".
-* [OpenBazaar](https://openbazaar.org/) - (Under development) Marketplace, with store fronts and moderators.
+* [OpenBazaar](https://openbazaar.org/) - Marketplace, with store fronts and moderators.
 * [P2Pool](https://github.com/p2pool/p2pool) - Bitcoin mining pool.
 
 ### Anonymity and Proxies
 
-* [DarkWallet](https://www.darkwallet.is/) - (Under development) Bitcoin wallet using stealth addresses and coinjoin for anonymity.
+* [DarkWallet](https://www.darkwallet.is/) - Bitcoin wallet using stealth addresses and coinjoin for anonymity.
 * [JoinMarket](https://github.com/JoinMarket-Org/joinmarket) - Implementation of CoinJoin (bitcoin mixing for anonymity) with added incentive structure.
 * [Freenet](https://freenetproject.org/) - Anonymous network with hidden services.
 * [I2P](https://geti2p.net/) - Anonymous network with hidden services.
@@ -47,10 +47,12 @@ Please read the [contribution guidelines](contributing.md) to contribute.
 * [Counterparty](http://counterparty.io/) - Financial applications on bitcoin network, extended with XCP cryptocurrency.
 * [Crypti](https://crypti.me/) - Application platform, with XCR cryptocurrency.
 * [Ethereum](https://www.ethereum.org/) - "Smart contract" platform, with Ether cryptocurrency.
-* [MaidSafe](http://maidsafe.net) - (Under development) Distributed data, with SafeCoin cryptocurrency.
-* [NXT](http://nxt.org/) - (Under development) Financial platform, with NXT coin.
+* [Eris](https://erisindustries.com/) - Platform for consensus(blockchain) based applications.
+* [MaidSafe](http://maidsafe.net) - Distributed data, with SafeCoin cryptocurrency.
+* [NXT](http://nxt.org/) - Financial platform, with NXT coin.
 * [Namecoin](https://en.wikipedia.org/wiki/Namecoin) - Fork of bitcoin, intended as a decentralized domain name registry.
-* [Storj](http://storj.io/) - (Under development) Distributed data, with StorjCoin cryptocurrency.
+* [Sia](http://sia.tech/) - Distributed data, with SiaCoin cryptocurrency.
+* [Storj](http://storj.io/) - Distributed data, with StorjCoin cryptocurrency.
 
 ### Related Lists
 
