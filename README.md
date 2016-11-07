@@ -35,6 +35,7 @@ Please read the [contribution guidelines](contributing.md) to contribute.
 * [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - Protocol for distributed file sharing
 * [Blockstack](https://github.com/blockstack/) - Toolset for decentralized applications.
 * [IPFS](https://ipfs.io/) - InterPlanetary File System, a distributed file system.
+* [Mediachain](http://mediachain.io) - A decentralized, open, programmable media library.
 * [Secure Scuttlebutt](https://github.com/ssbc/docs) - Distributed message feed network.
 * [Tahoe-LAFS](https://tahoe-lafs.org) - Distributed cloud data storage.
 * [WebTorrent](https://github.com/feross/webtorrent) - Browser torrent client using WebRTC.
