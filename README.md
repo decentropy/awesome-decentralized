@@ -25,6 +25,7 @@ Please read the [contribution guidelines](contributing.md) to contribute.
 * [BitMessage](https://en.wikipedia.org/wiki/Bitmessage) - Anonymous encrypted message broadcasting.
 * [Identifi](https://github.com/identifi/identifi) - Distributed identity and reputation store.
 * [RetroShare](http://retroshare.sourceforge.net/) - Communication, messaging, and file sharing.
+* [SimpleX chat](https://github.com/simplex-chat/simplex-chat): Decentralized terminal-based chat without global user identities.
 * [Streamium](https://streamium.io/) - Bitcoin paid streaming video broadcasting.
 * [Tox](https://tox.chat/) - Instant messaging and video calling.
 * [Twister](http://twister.net.co/) - Microblogging (Twitter-like) application.
