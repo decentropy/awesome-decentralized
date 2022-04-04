@@ -34,6 +34,7 @@ Please read the [contribution guidelines](contributing.md) to contribute.
 
 * [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - Protocol for distributed file sharing
 * [Blockstack](https://github.com/blockstack/) - Toolset for decentralized applications.
+* [Filebase](https://filebase.com): S3-compatible decentralized object storage platform powered by IPFS, Sia, Skynet and Storj.
 * [IPFS](https://ipfs.io/) - InterPlanetary File System, a distributed file system.
 * [Secure Scuttlebutt](https://github.com/ssbc/docs) - Distributed message feed network.
 * [Tahoe-LAFS](https://tahoe-lafs.org) - Distributed cloud data storage.
