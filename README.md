@@ -40,6 +40,7 @@ Please read the [contribution guidelines](contributing.md) to contribute.
 * [WebTorrent](https://github.com/feross/webtorrent) - Browser torrent client using WebRTC.
 * [WebRTC](https://en.wikipedia.org/wiki/WebRTC) - W3C drafted standard for browser-to-browser data transfer.
 * [ZeroNet](https://zeronet.io/) - P2P web applications, based on bittorrent.
+* [Polybase](https://polybase.xyz) - An open-source decentralized alternative to Firebase, Firestore, Postgres, etc. 
 
 ### Alt-Coin Platforms
 
